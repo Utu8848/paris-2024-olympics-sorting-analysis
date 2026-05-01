@@ -154,10 +154,10 @@ The notebook includes a menu-driven interface with three options:
 
 ## Author
 
-Utsav Rai
-Faculty of Computing, Engineering and the Built Environment
-Birmingham City University, Birmingham, United Kingdom
-GitHub: https://github.com/Utu8848
+**Utsav Rai**  
+Faculty of Computing, Engineering and the Built Environment  
+Birmingham City University, Birmingham, United Kingdom  
+[GitHub](https://github.com/Utu8848)
 
 ---
 
